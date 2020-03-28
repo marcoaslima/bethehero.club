@@ -11,3 +11,9 @@ Aplicativo da 11º Semana Omnistack da Rocketseat, o seu objetivo é permitir qu
 - Login para ONG's;
 - Cadastro de ONG's;
 - Cadastro, exlusão e listagem de Casos;
+
+## Desenvolvimento
+
+- Backend em NodeJs (RestFUL Api)
+- Banco de dados em MySQL
+- Frontend em ReactJS
