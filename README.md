@@ -15,7 +15,7 @@ Aplicativo da 11º Semana Omnistack da Rocketseat, o seu objetivo é permitir qu
 ## Desenvolvimento
 
 - Backend em NodeJs (RestFUL Api)
-- Banco de dados em MySQL
+- Banco de dados em MySQL (produção, homologação em SQLite)
 - Frontend em ReactJS
 - Continuous Integration e Deploy no Heroku
 
