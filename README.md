@@ -17,3 +17,7 @@ Aplicativo da 11º Semana Omnistack da Rocketseat, o seu objetivo é permitir qu
 - Backend em NodeJs (RestFUL Api)
 - Banco de dados em MySQL
 - Frontend em ReactJS
+
+## Acesso
+
+- Aplicativo Web para ONG's disponível em: http://bethehero.club/
