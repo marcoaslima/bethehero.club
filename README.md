@@ -22,3 +22,4 @@ Aplicativo da 11º Semana Omnistack da Rocketseat, o seu objetivo é permitir qu
 ## Acesso
 
 - Aplicativo Web para ONG's disponível em: http://bethehero.club/
+- Matéria do blog: https://www.codewithmarco.com/pt-br/blog/11-semana-omnistack-bethehero.html
