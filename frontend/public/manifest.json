@@ -1,0 +1,22 @@
+{
+    "short_name": "BeTheHero",
+    "name": "Be the Hero, seja um herói",
+    "description": "Aplicativo para ajuda de ongs",
+    "icons": [
+      {
+        "src": "/app_icon_192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/app_icon_512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#E02041",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#E02041"
+  }
