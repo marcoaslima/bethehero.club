@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-let envDev = true;
+let envDev = false;
 
 const baseURL = envDev ? 'http://localhost:3333' : 'https://bethehero-nodejsapi.herokuapp.com';
 
